@@ -7,5 +7,5 @@ To Use VZR-AV You Must First Turn Off Your Anti-Virus, This Is Because You Cant 
       Required Stuff.
           You Must Be On Windows, Otherwise It Will Not Work.
           Please Star The Github.
-
+          Run EVERYDAY In Order For It To Work, Or Else You Wont Be Able To Get Any Anti Virus From Then On.
               
